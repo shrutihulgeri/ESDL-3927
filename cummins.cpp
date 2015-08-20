@@ -1,2 +1,7 @@
-cummins college of engineering for women,
-karve nagar.
+cummins college of engineering for women.
+branches: 
+computer
+e&tc
+IT
+instrumentation
+mechanical
