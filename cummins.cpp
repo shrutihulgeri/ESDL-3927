@@ -3,5 +3,5 @@ branches:
 computer
 e&tc
 IT
-instrumentation
-mechanical
+strength of students : 8000
+faculty members and staff: 200
